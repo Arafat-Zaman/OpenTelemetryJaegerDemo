@@ -1,0 +1,6 @@
+@OpenTelemetryJaegerDemo_HostAddress = http://localhost:5099
+
+GET {{OpenTelemetryJaegerDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
